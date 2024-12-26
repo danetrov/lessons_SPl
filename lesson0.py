@@ -10,6 +10,4 @@ print(2*(2+2))
 print((2*2+2)==(2*(2+2)))
 
 # 4th program
-print((int(float("123.456") * 10)) // 300)
-#print((int(123.456 * 10)) // 300)
-#print(1234 // 300)
+print((int(float("123.456") * 10)) % 10)
